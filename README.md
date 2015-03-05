@@ -1,2 +1,2 @@
-# mn-drtr
-Minnesota Digital Right to Repair Campaign
+# ny-drtr
+New Yorks Digital Right to Repair Campaign
