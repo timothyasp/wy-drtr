@@ -1,2 +1,2 @@
-# ny-drtr
-New Yorks Digital Right to Repair Campaign
+# ma-drtr
+Massachusetts Digital Right to Repair Campaign
