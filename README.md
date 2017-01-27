@@ -1,2 +1,2 @@
-# ka-drtr
-Kansas Right to Repair Campaign
+# wy-drtr
+Wyoming Right to Repair Campaign
